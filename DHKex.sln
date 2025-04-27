@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHKex", "DHKex\DHKex.csproj", "{7A15C308-8427-4F3A-B1A1-0F83C7EC8289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHKexTest", "DHKexTest\DHKexTest.csproj", "{447CA064-F8FA-4D32-BE43-A54CE4DA5772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A15C308-8427-4F3A-B1A1-0F83C7EC8289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A15C308-8427-4F3A-B1A1-0F83C7EC8289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A15C308-8427-4F3A-B1A1-0F83C7EC8289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A15C308-8427-4F3A-B1A1-0F83C7EC8289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447CA064-F8FA-4D32-BE43-A54CE4DA5772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447CA064-F8FA-4D32-BE43-A54CE4DA5772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447CA064-F8FA-4D32-BE43-A54CE4DA5772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447CA064-F8FA-4D32-BE43-A54CE4DA5772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
