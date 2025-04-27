@@ -1,6 +1,3 @@
-using System.Numerics;
-using DHKex;
-
 namespace DHKexTest;
 
 public class UnitTest1 {

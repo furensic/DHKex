@@ -21,7 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\DHKex\DHKex.csproj" />
+        <ProjectReference Include="..\DHKex\DHKex.csproj"/>
     </ItemGroup>
 
 </Project>
